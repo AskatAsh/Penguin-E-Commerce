@@ -28,5 +28,5 @@ p{
 } */
 .btn{
     border-radius: 10px;
-    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    /* background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%); */
 }

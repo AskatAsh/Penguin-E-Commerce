@@ -14,7 +14,7 @@ h2 {
     color: #363958;
 }
 
-h3 {
+h3,p,span {
     color: #363958;
     font-family: Roboto;
 }
@@ -23,9 +23,9 @@ p{
 }
 
 /* header section */
-/* h1>span {
+span {
     color: #FABE4C;
-} */
+}
 .btn{
     border-radius: 10px;
     /* background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%); */
